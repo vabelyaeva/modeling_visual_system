@@ -5,7 +5,7 @@ eNeuro, 2023
 
 Software used for modeling: Sim4Life v7 (ZMT Zurich Med Tech AG, Zurich, Switzerland) 
 
-Modeling_presentation.pdf  ----   Summary of the work with desribtion, figures and tables  
+- Modeling_presentation.pdf  ----   Summary of the work with desribtion, figures and tables  
 
 Scripts: 
 Python scripts used in Sim4Life 
