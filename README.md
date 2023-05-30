@@ -13,8 +13,8 @@ Python scripts used in Sim4Life
 - s2_Simulation_Oz_Cz.py
 - s3_1_Masking_general.py
 - s3_2_Masking_library.py
-- s4_Collect_masked_fields.py  ----   Scripts results in data stored in 'efields_masked'
-Matlab 
-- s5_Collect_masks_table.m  ----   Script generates 'Data_6masks.csv'
-R: 
-- s6_Plot_data_6masks.R   ----   Script generates 'F9_F10_results.csv' and  'Oz_Cz_results.csv' 
+- s4_Collect_masked_fields.py  ----   Scripts results in data stored in 'efields_masked'          
+Matlab      
+- s5_Collect_masks_table.m  ----   Script generates 'Data_6masks.csv'     
+R:         
+- s6_Plot_data_6masks.R   ----   Script generates 'F9_F10_results.csv' and  'Oz_Cz_results.csv'       
